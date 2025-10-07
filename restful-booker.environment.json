@@ -1,0 +1,21 @@
+{
+	"id": "276b5a08-e574-4d8f-846b-3c625d5e1922",
+	"name": "Restful-booker",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-10-07T10:43:06.076Z",
+	"_postman_exported_using": "Postman/11.65.4"
+}
